@@ -1,4 +1,4 @@
-# 🤖 Viravoto Cognitivo - Agente de WhatsApp
+#Viravoto Cognitivo - Agente de WhatsApp
 
 > **Copiloto tático de inteligência artificial via WhatsApp para ativistas e voluntários dialogarem com eleitores indecisos, moderados e biconceituais no 2º turno.**
 
@@ -6,20 +6,20 @@ Construído com base na **Linguística Cognitiva de George Lakoff** (*Não pense
 
 ---
 
-## 💡 O Que o Agente Faz?
+##O Que o Agente Faz?
 
 1. **O voluntário recebe uma mensagem ou desabafo** de um familiar, vizinho ou colega (ex: *"Eu odeio o PT"*, *"Vou anular"*, *"Precisamos salvar o Brasil"*).
 2. **O voluntário cola a mensagem no WhatsApp do robô.**
 3. **O robô devolve em segundos:**
-   - 🎯 **Diagnóstico Rápido**: O que está na cabeça do eleitor e qual frame foi ativado.
-   - 🚫 **O que NÃO dizer**: Palavras-armadilha para nunca repetir (evitando fortalecer a narrativa adversária).
-   - 💬 **Opção 1 (Pergunta Desarmadora)**: Abordagem socrática suave baseada em afeto e perguntas.
-   - 💬 **Opção 2 (Resposta Direta & Firme)**: Mensagem assertiva focada nos 3 pontos fracos de Flávio Bolsonaro (mérito/nepo baby, Trump/soberania, falta de confiança/áudios).
-   - 🎙️ **Roteiro de Áudio Curto**: Texto para falar em 15 segundos no WhatsApp.
+   - **Diagnóstico Rápido**: O que está na cabeça do eleitor e qual frame foi ativado.
+   - **O que NÃO dizer**: Palavras-armadilha para nunca repetir (evitando fortalecer a narrativa adversária).
+   - **Opção 1 (Pergunta Desarmadora)**: Abordagem socrática suave baseada em afeto e perguntas.
+   - **Opção 2 (Resposta Direta & Firme)**: Mensagem assertiva focada nos 3 pontos fracos de Flávio Bolsonaro (mérito/nepo baby, Trump/soberania, falta de confiança/áudios).
+   - **Roteiro de Áudio Curto**: Texto para falar em 15 segundos no WhatsApp.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 - **Backend**: Python 3.11 + FastAPI (assíncrono, leve e ultrarrápido)
 - **IA Cognitiva**: Google Gemini 2.5 Flash / 3 Flash via SDK oficial `google-genai`
@@ -28,7 +28,7 @@ Construído com base na **Linguística Cognitiva de George Lakoff** (*Não pense
 
 ---
 
-## 🚀 Como Rodar o Projeto (Guia para o Desenvolvedor)
+## Como Rodar o Projeto (Guia para o Desenvolvedor)
 
 ### 1. Pré-requisitos
 - [Docker](https://www.docker.com/) e Docker Compose instalados.
@@ -71,7 +71,7 @@ curl -X POST http://localhost:8000/test \
 
 ---
 
-## 📁 Estrutura de Pastas
+## Estrutura de Pastas
 
 ```text
 agente-viravoto-whatsapp/
