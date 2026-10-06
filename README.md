@@ -1,4 +1,4 @@
-#Viravoto Cognitivo - Agente de WhatsApp
+# Viravoto Cognitivo - Agente de WhatsApp
 
 > **Copiloto tático de inteligência artificial via WhatsApp para ativistas e voluntários dialogarem com eleitores indecisos, moderados e biconceituais no 2º turno.**
 
@@ -6,7 +6,7 @@ Construído com base na **Linguística Cognitiva de George Lakoff** (*Não pense
 
 ---
 
-##O Que o Agente Faz?
+## O Que o Agente Faz?
 
 1. **O voluntário recebe uma mensagem ou desabafo** de um familiar, vizinho ou colega (ex: *"Eu odeio o PT"*, *"Vou anular"*, *"Precisamos salvar o Brasil"*).
 2. **O voluntário cola a mensagem no WhatsApp do robô.**
